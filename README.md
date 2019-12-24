@@ -1,6 +1,6 @@
 # Interactive block chain
 
-This project is a "<strong>vulgar</strong>" simulation of a system of block chain. The purpose of this project is to help every people to better understand <strong> how a block chain works.</strong> So I did not go into some technical details.
+This project is a "<strong>vulgar</strong>" simulation of a system of block chain. The purpose of this project is to help every people to better understand <strong> how a block chain works.</strong> So I did not go into some technical details but just the important thing to understand how this technology works
 
 <h2> Languages & tools </h2>
 
